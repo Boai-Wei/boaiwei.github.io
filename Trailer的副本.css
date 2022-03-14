@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+body {
+	width: 1500px;
+	margin: auto;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+  
+main {
+	background-color: #6D597A;
+	padding: 50px;
+	margin: 10px;
+}
+
+article {
+	background-color: #002855;
+	padding: 20px;
+	margin: 10px;
+	width: 1500px;
+	float: center;
+	border-left: 20px;
+}
+
+footer {
+	background-color: #002855;
+	padding: 9px;
+	margin: 10px;
+}
